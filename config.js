@@ -51,11 +51,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 global.sig = 'https://instagram.com/ibnu_ramadhani.1' // ig
 global.sgh = 'https://github.com/bisnissaya12/' // github
-global.sgc = 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn' // group whatsapp
 global.sdc = 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn'//discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG'' // facebook
-global.syt = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG'' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sfb = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' // facebook
+global.syt = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = '081807254833' //dana
